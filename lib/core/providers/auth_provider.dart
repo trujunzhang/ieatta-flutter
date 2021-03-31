@@ -50,7 +50,7 @@ class AuthProvider extends ChangeNotifier {
   }
 
   //Create user object based on the given FirebaseUser
-  AuthUserModel _userFromFirebase(FirebaseUser user) {
+  AuthUserModel _userFromFirebase(User user) {
     if (user == null) {
       return null;
     }
@@ -71,7 +71,7 @@ class AuthProvider extends ChangeNotifier {
   }
 
   //Method to detect live auth changes such as user sign in and sign out
-  Future<void> onAuthStateChanged(FirebaseUser firebaseUser) async {
+  Future<void> onAuthStateChanged(User firebaseUser) async {
     if (firebaseUser == null) {
       _status = Status.Unauthenticated;
     } else {
@@ -122,7 +122,7 @@ class AuthProvider extends ChangeNotifier {
       // Login via google api
       GoogleSignInAccount googleUser = await _googleSignIn.signIn();
       GoogleSignInAuthentication googleAuth = await googleUser.authentication;
-      final AuthCredential credential = GoogleAuthProvider.getCredential(
+      final AuthCredential credential = GoogleAuthProvider.credential(
         accessToken: googleAuth.accessToken,
         idToken: googleAuth.idToken,
       );
@@ -132,7 +132,7 @@ class AuthProvider extends ChangeNotifier {
       final String uid = user.uid;
       final String email = user.email;
       final String displayName = user.displayName;
-      final String photoURL = user.photoUrl;
+      final String photoURL = user.photoURL;
       IAuthUser model = IAuthUser(uid, email, displayName, photoURL);
       await FirebaseHelper.onLoginAfterHook(model);
       return true;

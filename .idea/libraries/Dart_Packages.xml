@@ -89,7 +89,7 @@
         <entry key="cloudinary_client">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloudinary_client-0.0.6/lib" />
+              <option value="$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloudinary_client-0.0.9/lib" />
             </list>
           </value>
         </entry>
@@ -135,13 +135,6 @@
             </list>
           </value>
         </entry>
-        <entry key="cookie_jar">
-          <value>
-            <list>
-              <option value="$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cookie_jar-1.0.1/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="crypto">
           <value>
             <list>
@@ -166,7 +159,7 @@
         <entry key="dio">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/dio-2.2.2/lib" />
+              <option value="$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/dio-3.0.10/lib" />
             </list>
           </value>
         </entry>
@@ -815,18 +808,17 @@
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloud_firestore-1.0.3/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloud_firestore_platform_interface-4.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloud_firestore_web-1.0.3/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloudinary_client-0.0.6/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cloudinary_client-0.0.9/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/collection-1.15.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/connectivity-3.0.3/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/connectivity_for_web-0.4.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/connectivity_macos-0.2.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/connectivity_platform_interface-2.0.1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/convert-2.1.1/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cookie_jar-1.0.1/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/crypto-2.1.5/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/cupertino_icons-0.1.2/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/date_format-1.0.9/lib" />
-      <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/dio-2.2.2/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/dio-3.0.10/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/fake_async-1.2.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/ffi-1.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../../../../flutterSDK/.pub-cache/hosted/pub.flutter-io.cn/file-6.1.0/lib" />
