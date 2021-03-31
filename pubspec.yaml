@@ -59,6 +59,7 @@ dependencies:
   # Firebase(cloud_store,auth)
   # https://firebase.flutter.dev/docs/firestore/usage/
   cloud_firestore: ^1.0.3 # BoringSSL_GRPC(0.0.3)
+  # https://firebase.flutter.dev/docs/auth/overview/
   firebase_auth: ^1.0.1
   # Third login
   flutter_auth_buttons: ^0.8.0

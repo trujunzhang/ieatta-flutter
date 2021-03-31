@@ -60,7 +60,8 @@ class AuthProvider extends ChangeNotifier {
         email: user.email ?? "",
         username: user.displayName,
         phoneNumber: user.phoneNumber,
-        avatarUrl: user.photoUrl);
+        avatarUrl: user.photoURL
+    );
   }
 
   Future<AuthUserModel> getAuthUserModel() async {
