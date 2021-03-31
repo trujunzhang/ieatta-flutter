@@ -20,6 +20,7 @@ environment:
 
 dependency_overrides:
     http_parser: ^4.0.0
+    cloud_firestore: ^1.0.3 
     # intl: 0.17.0-nullsafety.2
 
 dependencies:
@@ -48,7 +49,7 @@ dependencies:
   connectivity: ^3.0.3
   geohash: ^0.2.1
   # https://github.com/DarshanGowda0/GeoFlutterFire
-  #geoflutterfire: #^2.2.2
+  geoflutterfire: ^2.2.2
   rxdart: ^0.25.0
   # https://github.com/Lyokone/flutterlocation/tags
   location: ^4.0.0
