@@ -39,14 +39,14 @@ class AuthProvider extends ChangeNotifier {
   Status get status => _status;
 
   Stream<AuthUserModel> get user =>
-      _auth.authStateChanges.map(_userFromFirebase);
+      _auth.authStateChanges().map(_userFromFirebase);
 
   AuthProvider() {
     //initialise object
     _auth = FirebaseAuth.instance;
 
     //listener for authentication changes such as user sign in and sign out
-    _auth.authStateChanges.listen(onAuthStateChanged);
+    _auth.authStateChanges().listen(onAuthStateChanged);
   }
 
   //Create user object based on the given FirebaseUser
