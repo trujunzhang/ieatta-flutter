@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a8d225e-29a4-4125-b4ff-3de09b03f7c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/core/providers/auth_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/providers/auth_provider.dart" afterDir="false" />
-    </list>
+    <list default="true" id="7a8d225e-29a4-4125-b4ff-3de09b03f7c8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -374,6 +371,7 @@
       <workItem from="1617180650156" duration="849000" />
       <workItem from="1617184800727" duration="269000" />
       <workItem from="1617185944326" duration="671000" />
+      <workItem from="1617187458668" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1599895311258</created>
