@@ -11,16 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8d225e-29a4-4125-b4ff-3de09b03f7c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/icons/Icon-512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/camera/screens/camera_screen/widget/camera_uploading_panel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/camera/screens/camera_screen/widget/camera_uploading_panel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/camera/screens/camera_screen/widget/thumbnail_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/camera/screens/camera_screen/widget/thumbnail_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/screens/edit/user/user_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/screens/edit/user/user_page.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,6 +373,7 @@
       <workItem from="1616766680631" duration="58000" />
       <workItem from="1617020466930" duration="1549000" />
       <workItem from="1617177579139" duration="2057000" />
+      <workItem from="1617180650156" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1599895311258</created>
