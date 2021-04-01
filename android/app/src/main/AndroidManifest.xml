@@ -3,6 +3,10 @@
    <application
         android:label="ieatta"
         android:icon="@mipmap/ic_launcher">
+
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCYbPVAi4_-Ikq9zGt_Uh3bfwLuBa3zaNw"/>
+
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
