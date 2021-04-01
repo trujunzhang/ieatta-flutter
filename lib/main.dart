@@ -32,6 +32,7 @@ void main() async {
   // String canonFilename = '$docsDir/$_logFilename';
   // await Lager.initializeLogging(canonFilename);
   // await Lager.log('ENTERED main() ...');
+
   WidgetsFlutterBinding.ensureInitialized();
 
   await Firebase.initializeApp();
